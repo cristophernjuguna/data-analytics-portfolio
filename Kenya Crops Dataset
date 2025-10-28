@@ -1,0 +1,58 @@
+# 🌾 Crop Production Report | Power BI Dashboard
+
+## 🧠 Overview
+This Power BI dashboard analyzes crop production performance across various Kenyan counties.  
+It provides an overview of **revenue, profit, yield, and planted area**, helping identify which counties and crop types contribute most to overall agricultural productivity.
+
+---
+
+## 🎯 Key KPIs
+| Metric | Description | Value |
+|--------|--------------|-------|
+| 💰 **Total Revenue** | Overall sales value from all counties and crops | **1.19 Billion KES** |
+| 📈 **Total Profit** | Combined net profit across regions | **142.04 Million KES** |
+| 🌾 **Total Yield (Kg/Acre)** | Average yield efficiency | **133.09K Kg/Acre** |
+| 🌍 **Total Planted Area** | Combined acreage across all counties | **493.20 Acres** |
+
+---
+
+## 💡 Insights
+- **Nyeri and Meru** counties show high revenue but moderate profit margins — suggesting possible cost inefficiencies.  
+- **Kiambu** consistently performs above average in both **profit** and **yield per acre**, marking it as a key region for expansion.  
+- The **Dry Season** contributes nearly **46%** of total yield — indicating strong seasonal dependence.  
+- **December and March** are revenue peaks, hinting at potential harvest or market demand cycles.  
+- **Sorghum and Maize** dominate planted acreage but vary in profitability across counties.
+
+---
+
+## 🗺️ Dashboard Highlights
+- **Map Visualization:** Displays profit distribution by county across Kenya.  
+- **Bar Charts:** Compare county-level revenue and profit.  
+- **Line Chart:** Shows monthly profit and revenue trends.  
+- **Donut Chart:** Breaks down total yield by season (Short, Dry, Long Rains).  
+
+---
+
+## 🧰 Tools Used
+- **Power BI Desktop** — Dashboard creation and DAX calculations  
+- **Power Query** — Data transformation and cleaning  
+- **Excel** — Source dataset preparation  
+
+---
+
+## 🗂️ Files Included
+- `Crop_Production_Report.pbix` 
+- `Kenya_Crops_Dataset.csv`   
+- `dashboard.png`
+
+---
+
+## 🗣️ Note
+This project is part of my journey to master **Power BI** and **data storytelling**.  
+It reflects how analytics can uncover agricultural trends that support better planning and investment.
+
+Follow my progress for more dashboards
+
+---
+
+*#PowerBI #DataAnalytics #DataVisualization #KenyaData #AgricultureAnalytics #PortfolioProject*
